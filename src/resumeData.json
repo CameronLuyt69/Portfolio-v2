@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Cameron Jude Luyt",
+    "occupation":"Web-Developer",
+    "image":"me.jpg",
+    "bio":"I am a hard working individual with the capacity to accomplish any task, due to my creative problem solving abilities. I have a lifelong passion for technology and knowledge, in general, and am always eager and motivated to broaden my knowledge. I aim to be a productive and efficient team member with the ability to lead as well. My main goal is to become a full stack developer with great expertise within the position.",
+    "email": "cameronluyt30@gmail.com",
+    "phone": "081-019-0744",
+    "address":{
+      "street":"4 Tobago Close",
+      "city":"Cape Town",
+      "province":"Western Cape",
+      "zip": "7785"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/cameron.luyt.7",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/camer0n1que/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CameronLuyt69",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/cameron-luyt-138b441a9/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/CameronLuyt69",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Life Choices Academy",
+        "degree":"Web Development",
+        "graduated":"2020",
+        "description":"Very much a work experience where I managed to learn many different languages in coding such as HTML, CSS, JavaScript, etc. I also experienced personal and professional development."
+      },
+      {
+        "school":"Mondale High School",
+        "degree":"National Senior Certificate",
+        "graduated":"2019",
+        "description":"There are three words that describes Mondale High and its students.Discipline, Dedication and Determination."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hanover Park Cricket Club",
+        "title":"Score-Keeper",
+        "years":"2",
+        "description":"Kept track of the score, did match reports after each game and organised drinks after each game."
+      },
+      {
+        "company":"Yorkshire Cricket Club",
+        "title":"Score-Keeper",
+        "years":"1",
+        "description":"Kept track of the score"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"User Profile System",
+        "category":"A site that stores user cards.",
+        "image":"4 WORK.png"
+      },
+      {
+        "title":"GitHub Finder",
+        "category":"A site that fetches user profiles from GitHub.",
+        "image":"1 WORK.png"
+      },
+      {
+        "title":"Contact-Keeper",
+        "category":"A site that stores users along with contacts they desire to keep.",
+        "image":"3 WORK.png"
+      },
+      {
+        "title":"Contact-Keeper",
+        "image":"3WORK.png"
+      },
+      {
+        "title":"Cameron Jude Luyt",
+        "category":"Portfolio",
+        "image":"5 WORK.png"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Cameron is a fantastic developer to work with. In addition to his pleasant personality, Cameron is co-operative and willing to learn.",
+        "user":"Godwin Dzvapatsva(Head of Curriculum and Learning)"
+      },
+      {
+        "text":"He produces excellent work, and has a great work ethic, and also a team player",
+        "user":"Tyron Keet"
+      },
+      {
+        "text":"Cameron's a creative thinker and determined individual. He has great potential and willl be an asset to any workplace ",
+        "user":"Viata Fredricks"
+      }
+    ]
+  }
+}
