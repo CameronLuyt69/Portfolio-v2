@@ -7,7 +7,6 @@
     "email": "cameronluyt30@gmail.com",
     "phone": "081-019-0744",
     "address":{
-      "street":"4 Tobago Close",
       "city":"Cape Town",
       "province":"Western Cape",
       "zip": "7785"
@@ -41,7 +40,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Life Choices Academy",
