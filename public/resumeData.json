@@ -90,17 +90,17 @@
     "projects": [
       {
         "title":"User Profile System",
-        "category":"A site that stores user cards.",
+        "category":"A site that stores user information in the form of card panels and models. Users are removable. This project was built with HTML, CSS and Bootstrap.",
         "image":"4 WORK.png"
       },
       {
         "title":"GitHub Finder",
-        "category":"A site that fetches user profiles from GitHub.",
+        "category":"A site that fetches GitHub user information. The site displays information such as user profile picture, followers and following, number of repos and gists, a link to the users profile and more. This project was built using HTML, CSS, React and more",
         "image":"1 WORK.png"
       },
       {
         "title":"Contact-Keeper",
-        "category":"A site that stores users along with contacts they desire to keep.",
+        "category":"A site that allows users to create personal/proessional accounts. With these accounts users are able to store and manage contacts. This project was built with HTML, CSS, React, MongoDB and more",
         "image":"3 WORK.png"
       },
       {
@@ -108,8 +108,13 @@
         "image":"3WORK.png"
       },
       {
+        "title":"AZ-TECH",
+        "category":"A site that enables users to shop online for items tech related. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built using HTML, CSS, React, MongoDB and more",
+        "image":"6 WORK.png"
+      }
+      {
         "title":"Cameron Jude Luyt",
-        "category":"Portfolio",
+        "category":"A site the displays my professional information. Thhis site also includes examples of past projects aswell as a downloadable CV. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built with HTML, CSS, React and more",
         "image":"5 WORK.png"
       }
     ]
