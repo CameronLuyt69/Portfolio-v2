@@ -759,7 +759,8 @@ properly.
 .cf:before,
 .cf:after {
     content: " ";
-    display: table;
+    display: flex;
+    flex-direction: column;
 }
 .cf:after {
     clear: both;
