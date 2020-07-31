@@ -3,7 +3,7 @@
     "name":"Cameron Jude Luyt",
     "occupation":"Web-Developer",
     "image":"me.jpg",
-    "bio":"I am a hard working individual with the capacity to accomplish any task, due to my creative problem solving abilities. I have a lifelong passion for technology and knowledge, in general, and am always eager and motivated to broaden my knowledge. I aim to be a productive and efficient team member with the ability to lead as well. My main goal is to become a full stack developer with great expertise within the position.",
+    "bio":"I am a hard working individual with the capacity to accomplish any task through my creative problem-solving abilities. I have a lifelong passion for technology and am always eager and motivated to broaden my knowledge. I aim to be a productive and efficient team member with the ability to lead as well. My main goal is to become a full-stack developer.",
     "email": "cameronluyt30@gmail.com",
     "phone": "081-019-0744",
     "address":{
@@ -12,6 +12,16 @@
       "zip": "7785"
     },
     "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/cameron.luyt.7",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/camer0n1que/",
+        "className":"fa fa-instagram"
+      },
       {
         "name":"github",
         "url":"https://github.com/CameronLuyt69",
@@ -35,13 +45,13 @@
         "school":"Life Choices Academy",
         "degree":"Web Development",
         "graduated":"2020",
-        "description":"Very much a work experience where I managed to learn many different languages in coding such as HTML, CSS, JavaScript, etc. I also experienced personal and professional development."
+        "description":"A bootcamp which simulates a work experience. During my time here I learned the following coding languages HTML, CSS, JavaScript, ReactJS, Python and MongoDB. I was also exposed to personal and professional development."
       },
       {
         "school":"Mondale High School",
         "degree":"National Senior Certificate",
         "graduated":"2019",
-        "description":"There are three words that describes Mondale High and its students.Discipline, Dedication and Determination."
+        "description":"There are three words that describes Mondale High and its students. Discipline, Dedication and Determination."
       }
     ],
     "work":[
