@@ -377,11 +377,18 @@ ul#nav li.current a { color: #3385c6; }
 .portfolio-item .portfolio-item-meta h3 {
    font: 30px/36px 'opensans-bold', sans-serif;
    color: #fff;
+   font-size: xx-large;
+}
+.portfolio-item-meta h3 {
+   font: 30px/36px 'opensans-bold', sans-serif;
+   color: #fff;
+   font-size: xx-large;
 }
 .portfolio-item .portfolio-item-meta p {
    font: 25px/30px 'opensans-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
+   font-size: larger;
 }
 
 /* on hover */
