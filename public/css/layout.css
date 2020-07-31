@@ -375,11 +375,11 @@ ul#nav li.current a { color: #3385c6; }
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h3 {
-   font: 'opensans-bold', sans-serif;
+   font: 30px/36px 'opensans-bold', sans-serif;
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 20px/26px 'opensans-light', sans-serif;
+   font: 25px/30px 'opensans-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
 }
