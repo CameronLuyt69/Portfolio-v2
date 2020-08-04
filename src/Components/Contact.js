@@ -21,8 +21,6 @@ class Contact extends Component {
          var email = this.props.data.email;
       }
 
-      const { status } = this.state;
-
       return (
          <section id="contact">
 
