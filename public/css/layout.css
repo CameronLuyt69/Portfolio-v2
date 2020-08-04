@@ -393,7 +393,7 @@ ul#nav li.current a { color: #3385c6; }
 
 /* on hover */
 .portfolio-item:hover .overlay {
-	opacity: 5;
+	opacity: 1;
 	-moz-opacity: 0.1;
 	filter:alpha(opacity=100);
 }
