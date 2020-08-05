@@ -13,10 +13,10 @@ class Portfolio extends Component {
                 <div className="portfolio-item-meta">
                     <h3>{projects.title}</h3>
                     <p>{projects.category}</p>
+                    <div className="meta-buttons">
+                      <a href={projects.url} title={projects.title} target="_blank"><button name="code" className="view-code-btn button3">View Code</button></a>
+                    </div>
                 </div>
-              </div>
-              <div className="meta-buttons">
-                <a href={projects.url} title={projects.title} target="_blank"><button name="code" className="view-code-btn button3">View Code</button></a>
               </div>
             </div>
         </div>
