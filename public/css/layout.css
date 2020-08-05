@@ -398,7 +398,8 @@ ul#nav li.current a { color: #3385c6; }
 }
 .view-code-btn {
    border: 1px solid black;
-   border-radius: 25px;
+   padding-top: 3rem;
+   text-align: center;
 }
 
 @media (max-width: 900px){
