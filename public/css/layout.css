@@ -390,18 +390,6 @@ ul#nav li.current a { color: #3385c6; }
    margin-bottom: 0;
    font-size: larger;
 }
-@media (max-width: 900px){
-   .portfolio-item-meta h3 {
-      font: 15px/18px 'opensans-bold', sans-serif;
-      color: #fff;
-      font-size: xx-large;
-   }
-   .portfolio-item .portfolio-item-meta p {
-      font: 10px/15px 'opensans-light', sans-serif;
-      color: #c6c7c7;
-      margin-bottom: 0;
-      font-size: larger;
-}
 
 /* on hover */
 .portfolio-item:hover .overlay {
