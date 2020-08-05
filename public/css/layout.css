@@ -404,15 +404,21 @@ ul#nav li.current a { color: #3385c6; }
    flex-direction: row;
    justify-content: center;
    align-items: center;
-   padding: 2rem;
 }
 .view-code-btn {
    border: 1px solid black;
    text-align: center;
    text-decoration: none;
+   color: #000000;
+   padding-right: 1rem;
 }
 .view-demo-btn {
-   
+   border: 1px solid black;
+   text-align: center;
+   text-decoration: none;
+   background-color: rgb(79, 190, 79);
+   color: #000000;
+   padding-left: 1rem;
 }
 
 @media (max-width: 900px){
