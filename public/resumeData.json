@@ -114,13 +114,15 @@
         "title":"AZ-TECH",
         "category":"A site that enables users to shop online for items tech related. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built using HTML, CSS, React, MongoDB and more",
         "image":"6 WORK.png",
-        "url":"https://az-tech.herokuapp.com/"
+        "url":"https://github.com/CameronLuyt69/AZ-TECH",
+        "demo":"https://az-tech.herokuapp.com/"
       },
       {
         "title":"Cameron Jude Luyt",
-        "category":"A site the displays my professional information. Thhis site also includes examples of past projects aswell as a downloadable CV. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built with HTML, CSS, React and more",
+        "category":"A site the displays my professional information. This site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
         "image":"5 WORK.png",
-        "url":"https://github.com/CameronLuyt69/My-Portfolio"
+        "url":"https://github.com/CameronLuyt69/My-Portfolio",
+        "demo":"https://github.com/CameronLuyt69/My-Portfolio"
       }
     ]
   },
