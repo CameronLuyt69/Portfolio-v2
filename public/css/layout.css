@@ -404,6 +404,7 @@ ul#nav li.current a { color: #3385c6; }
    flex-direction: row;
    justify-content: space-evenly;
    align-items: center;
+   width: 40%;
 }
 .view-code-btn {
    border: 1px solid black;
