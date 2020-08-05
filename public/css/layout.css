@@ -434,6 +434,9 @@ ul#nav li.current a { color: #3385c6; }
       margin-bottom: 0;
       font-size: larger;
    }
+   .meta-buttons {
+      display: none;
+   }
 }
 
 /* on hover */
