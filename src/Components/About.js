@@ -46,7 +46,7 @@ class About extends Component {
             </p>
             <div>
                <h2>Hobbies</h2>
-               <i className="fas fa-gamepad"></i>
+               <i class="fas fa-gamepad"></i>
             </div>
          </div>
       </div>
