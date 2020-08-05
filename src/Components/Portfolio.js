@@ -14,7 +14,10 @@ class Portfolio extends Component {
                     <h3>{projects.title}</h3>
                     <p>{projects.category}</p>
                     <div className="meta-buttons">
-                      <a href={projects.url} title={projects.title} target="_blank"><button name="code" className="view-code-btn button3">View Code</button></a>
+                      <a href={projects.url} title={projects.title} target="_blank"><button name="code" className="view-code-btn">View Code</button></a>
+                      {projects.demo && (
+                        <a href={projects.demo} title={projects.title} target="_blank"><button name="demo" className="view-code-btn">View Demo</button></a>
+                      )}
                     </div>
                 </div>
               </div>
