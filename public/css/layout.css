@@ -402,7 +402,7 @@ ul#nav li.current a { color: #3385c6; }
 .meta-buttons {
    display: flex;
    flex-direction: row;
-   justify-content: center;
+   justify-content: space-between;
    align-items: center;
 }
 .view-code-btn {
