@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Cameron Jude Luyt",
-    "occupation":"Web-Developer",
+    "occupation":"Jnr Front-End Developer",
     "image":"me.jpg",
     "bio":"I am a hard working individual with the capacity to accomplish any task through my creative problem-solving abilities. I have a lifelong passion for technology and am always eager and motivated to broaden my knowledge. I aim to be a productive and efficient team member with the ability to lead as well. My main goal is to become a full-stack developer.",
     "email": "cameronluyt30@gmail.com",
@@ -108,7 +108,8 @@
       },
       {
         "title":"Contact-Keeper",
-        "image":"3WORK.png"
+        "image":"3WORK.png",
+        "url":"https://github.com/CameronLuyt69/Contact-Keeper"
       },
       {
         "title":"AZ-TECH",
@@ -119,7 +120,7 @@
       },
       {
         "title":"Cameron Jude Luyt",
-        "category":"A site the displays my professional information. This site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
+        "category":"A site the displays my professional information. Thhis site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
         "image":"5 WORK.png",
         "url":"https://github.com/CameronLuyt69/My-Portfolio",
         "demo":"https://github.com/CameronLuyt69/My-Portfolio"
@@ -137,7 +138,7 @@
         "user":"Tyron Keet"
       },
       {
-        "text":"Cameron's a creative thinker and determined individual. He has great potential and willl be an asset to any workplace ",
+        "text":"Cameron's a creative thinker and determined individual. He has great potential and will be an asset to any workplace ",
         "user":"Viata Fredricks"
       }
     ]
