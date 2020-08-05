@@ -69,16 +69,20 @@
         "level":"90%"
       },
       {
-        "name":"Git",
+        "name":"React + Redux",
         "level":"75%"
       },
       {
-        "name":"React",
-        "level":"75%"
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
         "name":"Python",
         "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
       },
       {
         "name":"MongoDB",
