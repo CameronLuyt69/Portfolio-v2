@@ -44,6 +44,15 @@ class About extends Component {
             <p>
                <a href="CURRICULUM_VITAE_OF_CAMERON_LUYT.docx" className="button"><i className="fa fa-download"></i> Download CV</a>
             </p>
+            <div>
+               <h2>Hobbies</h2>
+               <div>
+                  <i className="fas fa-gamepad"></i>
+                  <i className="fas fa-camera"></i>
+                  <i className="fas fa-headphones"></i>
+                  <i className="fas fa-guitar"></i>
+               </div>
+            </div>
          </div>
       </div>
 
