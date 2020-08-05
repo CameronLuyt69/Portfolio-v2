@@ -46,11 +46,11 @@ class About extends Component {
             </p>
             <div>
                <h2>Hobbies</h2>
-               <div>
-                  <i className="fas fa-gamepad"></i>
-                  <i className="fas fa-camera"></i>
-                  <i className="fas fa-headphones"></i>
-                  <i className="fas fa-guitar"></i>
+               <div className="hobbies">
+                  <div><i className="fas fa-gamepad"></i> Gaming</div>
+                  <div><i className="fas fa-camera"></i> Photography</div>
+                  <div><i className="fas fa-headphones"></i> Music</div>
+                  <div><i className="fas fa-guitar"></i> Playing guitar</div>
                </div>
             </div>
          </div>
