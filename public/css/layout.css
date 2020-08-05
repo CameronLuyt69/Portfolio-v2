@@ -396,10 +396,13 @@ ul#nav li.current a { color: #3385c6; }
    margin-bottom: 0;
    font-size: larger;
 }
+.portfolio-item-meta a {
+   padding-top: 3rem;
+}
 .view-code-btn {
    border: 1px solid black;
-   padding-top: 3rem;
    text-align: center;
+   text-decoration: none;
 }
 
 @media (max-width: 900px){
