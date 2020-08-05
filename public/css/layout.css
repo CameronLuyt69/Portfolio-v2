@@ -373,14 +373,16 @@ ul#nav li.current a { color: #3385c6; }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
-.portfolio-item .portfolio-item-meta { padding: 18px }
+.portfolio-item .portfolio-item-meta { 
+   padding: 18px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
 .portfolio-item .portfolio-item-meta h3 {
    font: 30px/36px 'opensans-bold', sans-serif;
    color: #fff;
    font-size: xx-large;
-   display: flex;
-   align-items: center;
-   justify-content: center;
 }
 .portfolio-item-meta h3 {
    font: 30px/36px 'opensans-bold', sans-serif;
