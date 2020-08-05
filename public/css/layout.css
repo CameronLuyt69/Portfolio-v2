@@ -396,6 +396,10 @@ ul#nav li.current a { color: #3385c6; }
    margin-bottom: 0;
    font-size: larger;
 }
+.view-code-btn {
+   border: 1px solid black;
+   border-radius: 25px;
+}
 
 @media (max-width: 900px){
    .portfolio-item-meta h3 {
