@@ -12,7 +12,7 @@ class Portfolio extends Component {
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                    <h3>{projects.title}<i className="fa fa-link"></i></h3>
+                    <h3>{projects.title} <i className="fa fa-link"></i></h3>
                     <p>{projects.category}</p>
                 </div>
               </div>
