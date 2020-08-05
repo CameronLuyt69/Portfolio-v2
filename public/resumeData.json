@@ -24,6 +24,11 @@
         "className":"fa fa-linkedin"
       },
       {
+        "name":"facebook",
+        "url":"https://www.facebook.com/cameron.luyt.7",
+        "className":"fa fa-linkedin"
+      },
+      {
         "name":"twitter",
         "url":"https://twitter.com/CameronLuyt69",
         "className":"fa fa-twitter"
@@ -106,7 +111,7 @@
       },
       {
         "title":"Contact-Keeper",
-        "category":"A site that allows users to create personal/proessional accounts. With these accounts users are able to store and manage contacts. This project was built with HTML, CSS, React, MongoDB and more",
+        "category":"A site that allows users to create personal/professional accounts. With these accounts users are able to store and manage contacts. This project was built with HTML, CSS, React, MongoDB and more",
         "image":"3 WORK.png",
         "url":"https://github.com/CameronLuyt69/Contact-Keeper"
       },
@@ -124,7 +129,7 @@
       },
       {
         "title":"Cameron Jude Luyt",
-        "category":"A site the displays my professional information. Thhis site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
+        "category":"A site the displays my professional information. This site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
         "image":"5 WORK.png",
         "url":"https://github.com/CameronLuyt69/My-Portfolio",
         "demo":"https://github.com/CameronLuyt69/My-Portfolio"
@@ -134,7 +139,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Cameron is a fantastic developer to work with. In addition to his pleasant personality, Cameron is co-operative and willing to learn.",
+        "text":"Cameron is a fantastic developer to work with and is a excellent problem-solver. In addition to his pleasant personality, Cameron is co-operative and willing to learn.",
         "user":"Godwin Dzvapatsva(Head of Curriculum and Learning)"
       },
       {
