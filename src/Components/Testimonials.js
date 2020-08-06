@@ -7,7 +7,7 @@ class Testimonials extends Component {
       var testimonials = this.props.data.testimonials.map(function(testimonials){
         return  <li key={testimonials.user}>
             <blockquote>
-               <div>{testimonials.text}</div>
+               <p>{testimonials.text}</p>
                <cite>{testimonials.user}</cite>
             </blockquote>
          </li>
