@@ -104,6 +104,12 @@
         "url":"https://github.com/CameronLuyt69/Assignments/tree/master/WebDesignEndOfModuleProject"
       },
       {
+        "title":"IT-Logger",
+        "category":"A site that stores technicians along with tasks they're required to complete and tasks they've completed. This project was created using HTML, CSS, React and more",
+        "image":"2 WORK.png",
+        "url":"https://github.com/CameronLuyt69/Assignments/tree/master/it-logger"
+      },
+      {
         "title":"GitHub Finder",
         "category":"A site that fetches GitHub user information. The site displays information such as user profile picture, followers and following, number of repos and gists, a link to the users profile and more. This project was built using HTML, CSS, React and more",
         "image":"1 WORK.png",
