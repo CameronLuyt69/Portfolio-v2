@@ -610,15 +610,16 @@ ul#nav li.current a { color: #3385c6; }
    line-height: 28px;
    color: #fff
 }
-#testimonials blockquote div cite {
+#testimonials blockquote cite {
+   display: block;
    font-size: 14px;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    line-height: 18px;
    color: #fff;
 }
-#testimonials blockquote div cite:before { content: "\2014 \0020"; }
-#testimonials blockquote div cite a,
-#testimonials blockquote div cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite:before { content: "\2014 \0020"; }
+#testimonials blockquote cite a,
+#testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
