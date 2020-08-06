@@ -107,18 +107,21 @@
         "title":"GitHub Finder",
         "category":"A site that fetches GitHub user information. The site displays information such as user profile picture, followers and following, number of repos and gists, a link to the users profile and more. This project was built using HTML, CSS, React and more",
         "image":"1 WORK.png",
-        "url":"https://github.com/CameronLuyt69/GitHub-Finder"
+        "url":"https://github.com/CameronLuyt69/GitHub-Finder",
+        "demo":"https://github-finder-cl-69.netlify.app/"
       },
       {
         "title":"Contact-Keeper",
         "category":"A site that allows users to create personal/professional accounts. With these accounts users are able to store and manage contacts. This project was built with HTML, CSS, React, MongoDB and more",
         "image":"3 WORK.png",
-        "url":"https://github.com/CameronLuyt69/Contact-Keeper"
+        "url":"https://github.com/CameronLuyt69/Contact-Keeper",
+        "demo":"https://contact-keeper-cl.herokuapp.com/"
       },
       {
         "title":"Contact-Keeper",
         "image":"3WORK.png",
-        "url":"https://github.com/CameronLuyt69/Contact-Keeper"
+        "url":"https://github.com/CameronLuyt69/Contact-Keeper",
+        "demo":"https://contact-keeper-cl.herokuapp.com/"
       },
       {
         "title":"AZ-TECH",
