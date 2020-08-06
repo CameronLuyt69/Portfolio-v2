@@ -614,7 +614,7 @@ ul#nav li.current a { color: #3385c6; }
    display: block;
    font-size: 14px;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   line-height: 18px;
+   line-height: 28px;
    color: #fff;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
