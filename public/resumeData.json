@@ -138,18 +138,22 @@
   },
   "testimonials":{
     "testimonials":[
-      {
+      { 
+        "id":"1",
         "text":"Cameron is a fantastic developer to work with and is a excellent problem-solver. In addition to his pleasant personality, Cameron is co-operative and willing to learn.",
         "user":"Godwin Dzvapatsva(Head of Curriculum and Learning)"
       },
       {
+        "id":"2",
         "text":"He produces excellent work, and has a great work ethic, and also a team player",
         "user":"Tyron Keet"
       },
       {
+        "id":"3",
         "text":"Cameron's a creative thinker and determined individual. He has great potential and will be an asset to any workplace ",
         "user":"Viata Fredricks"
       }
     ]
   }
 }
+
