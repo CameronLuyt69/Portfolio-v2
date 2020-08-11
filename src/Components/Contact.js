@@ -51,7 +51,7 @@ class Contact extends Component {
 
                      <div>
                         <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-                        <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange} required/>
+                        <input type="email" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange} required/>
                      </div>
 
                      <div>
