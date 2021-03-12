@@ -42,7 +42,7 @@ class About extends Component {
          <div className="three columns">
             <img className="profile-pic"  src={profilepic} alt="Cameron Jude Luyt Profile Pic" />
             <p>
-               <a href="CURRICULUM_VITAE_OF_CAMERON_LUYT.docx" className="button"><i className="fa fa-download"></i> Download CV</a>
+               <a href="CAMERON.docx" className="button"><i className="fa fa-download"></i> Download CV</a>
             </p>
             <div>
                <h2>Hobbies</h2>
