@@ -88,6 +88,10 @@
         "level": "70%"
       },
       {
+        "name": "C#.NETCore",
+        "level": "60%"
+      },
+      {
         "name": "React + Redux",
         "level": "40%"
       },
@@ -100,12 +104,12 @@
         "level": "40%"
       },
       {
-        "name": "Git",
+        "name": "Git / Source Control",
         "level": "75%"
       },
       {
         "name": "MongoDB",
-        "level": "60%"
+        "level": "75%"
       }
     ]
   },
