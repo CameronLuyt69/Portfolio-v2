@@ -164,6 +164,23 @@
         "image": "5 WORK.png",
         "url": "https://github.com/CameronLuyt69/My-Portfolio",
         "demo": "https://cameronluyt69.github.io/My-Portfolio/"
+      },
+      {
+        "title": "The Palace Group",
+        "category": "A casino directory/portal website with information about the ins and outs of The Palace Group. This was a group project built with HTML, CSS, Javascript, jQuery and more",
+        "image": "PG.png"
+      },
+      {
+        "title": "The Palace Group",
+        "image": "PGR.png"
+      },
+      {
+        "title": "The Palace Group",
+        "image": "PGL.png"
+      },
+      {
+        "title": "The Palace Group",
+        "image": "PGG.png"
       }
     ]
   },
