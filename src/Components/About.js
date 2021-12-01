@@ -47,7 +47,7 @@ class About extends Component {
               alt="Cameron Jude Luyt Profile Pic"
             />
             <p>
-              <a href="CAMERON.docx" className="button">
+              <a href="CAMERON.pdf" className="button">
                 <i className="fa fa-download"></i> Download CV
               </a>
             </p>
