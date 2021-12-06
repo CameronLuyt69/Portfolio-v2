@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2020 Cameron Jude Luyt</li>
+              <li>&copy; Copyright 2021 Cameron Jude Luyt</li>
             </ul>
           </div>
           <div id="go-top">
