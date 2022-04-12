@@ -179,8 +179,16 @@
         "image": "PGL.png"
       },
       {
-        "title": "The Palace",
+        "title": "The Palace Group",
         "image": "PGG.png"
+      },
+      {
+        "title": "King James Digital",
+        "image": "kjd.png"
+      },      
+      {
+        "title": "CAMOGraphy",
+        "image": "camo.png"
       }
     ]
   },
