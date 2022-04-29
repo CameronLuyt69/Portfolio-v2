@@ -344,7 +344,7 @@
       display: none;
    }
    #contact {
-      padding-top: 10rem;
+      padding-top: 5rem;
    }
    #testimonials .text-container {
       transform: none;
@@ -366,6 +366,11 @@
       width: 90%;
    }
   
+   #contact input,
+#contact textarea,
+#contact select {
+      width: 82%;
+}
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
@@ -375,7 +380,8 @@
 
    /* social links */
    footer .social-links { font-size: 20px; }
-   footer .social-links li { margin-left: 14px; }   
+   footer .social-links li { margin-left: 14px; } 
+
 
 }
 
