@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import {SectionsContainer, Section, Slide} from 'react-fullpage';
+
+import { Swiper, SwiperSlide } from 'swiper/react';
 class Portfolio extends Component {
   
   render() {
@@ -6,7 +9,8 @@ class Portfolio extends Component {
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return (
-          <div key={projects.title} className="columns portfolio-item">
+          <SwiperSlide key={projects.image}>
+          <div key={projects.image} className="slide columns portfolio-item">
             <div className="item-wrap">
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
@@ -43,12 +47,13 @@ class Portfolio extends Component {
               </div>
             </div>
           </div>
+          </SwiperSlide>
         );
       })
     }
 
     return (
-      <section id="portfolio">
+      <section id="portfolio" className='section'>
 
       <div className="row">
 
@@ -57,7 +62,9 @@ class Portfolio extends Component {
             <h1>Check Out My Projects</h1>
 
             <div id="portfolio-wrapper" className="cf">
+              <Swiper spaceBetween={30} slidesPerView={'auto'}>
                 {projects}
+                </Swiper>
             </div>
 
           </div>

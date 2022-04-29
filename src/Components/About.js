@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {SectionsContainer, Section} from 'react-fullpage';
 
 class About extends Component {
   render() {
@@ -14,8 +15,8 @@ class About extends Component {
     }
 
     return (
-      <section id="about">
-        <div className="row">
+      <section id="about" className="section">
+        <div className="row about-content">
           <div className="nine columns main-col">
             <h2>About</h2>
 
@@ -51,7 +52,7 @@ class About extends Component {
                 <i className="fa fa-download"></i> Download CV
               </a>
             </p>
-            <div>
+            <div className="hobby-sec">
               <h2>Hobbies</h2>
               <div className="hobbies">
                 <div>

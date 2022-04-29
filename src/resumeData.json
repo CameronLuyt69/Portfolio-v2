@@ -58,15 +58,9 @@
         "description": "Worked closely with the development teams and provided assistance. Took part in Scrum rituals such as stand ups, planning sessions, demos and retrospectives. Took part in team activities such as collaborative-development and code-reviews."
       },
       {
-        "company": "Hanover Park Cricket Club",
-        "title": "Score-Keeper",
-        "years": "2",
-        "description": "Kept track of the score, did match reports after each game and organised drinks after each game."
-      },
-      {
         "company": "Yorkshire Cricket Club",
         "title": "Score-Keeper",
-        "years": "1",
+        "years": "2",
         "description": "Kept track of the score."
       }
     ],
@@ -92,8 +86,8 @@
         "level": "60%"
       },
       {
-        "name": "React + Redux",
-        "level": "50%"
+        "name": "React",
+        "level": "60%"
       },
       {
         "name": "JavaScript",
@@ -104,7 +98,7 @@
         "level": "40%"
       },
       {
-        "name": "Git / Source Control",
+        "name": "Git",
         "level": "75%"
       },
       {
@@ -112,31 +106,54 @@
         "level": "75%"
       },
       {
-        "name": "Adobe Photoshop",
+        "name": "SQL",
+        "level": "40%"
+      },
+      {
+        "name": "Photoshop",
         "level": "40%"
       }
     ]
   },
   "portfolio": {
-    "projects": [
+    "projects": [ 
       {
-        "title": "User Profile System",
-        "category": "A site that stores user information in the form of card panels and models. Users are removable. This project was built with HTML, CSS and Bootstrap.",
-        "image": "4 WORK.png",
-        "url": "https://github.com/CameronLuyt69/Assignments/tree/master/WebDesignEndOfModuleProject"
+        "title": "CAMOGraphy",
+        "image": "camo.png"
       },
       {
-        "title": "IT-Logger",
-        "category": "A site that stores technicians along with tasks they're required to complete and tasks they've completed. This project was created using HTML, CSS, React and more",
-        "image": "2 WORK.png",
-        "url": "https://github.com/CameronLuyt69/Assignments/tree/master/it-logger"
+        "title": "King James Digital",
+        "image": "kjd.png"
+      }, 
+      {
+        "title": "The Palace Group",
+        "image": "PGG.png"
       },
       {
-        "title": "GitHub Finder",
-        "category": "A site that fetches GitHub user information. The site displays information such as user profile picture, followers and following, number of repos and gists, a link to the users profile and more. This project was built using HTML, CSS, React and more",
-        "image": "1 WORK.png",
-        "url": "https://github.com/CameronLuyt69/GitHub-Finder",
-        "demo": "https://github-finder-cl-69.netlify.app/"
+        "title": "The Palace Group",
+        "image": "PGL.png"
+      }, 
+      {
+        "title": "The Palace Group",
+        "category": "A casino directory/portal website with information about the ins and outs of The Palace Group. This was a group project built with HTML, CSS, Javascript, jQuery and more",
+        "image": "PG.png"
+      },
+      {
+        "title": "The Palace Group",
+        "image": "PGR.png"
+      }, 
+      {
+        "title": "AZ-TECH",
+        "category": "A site that enables users to shop online for items tech related. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built using HTML, CSS, React, MongoDB and more",
+        "image": "6 WORK.png",
+        "url": "https://github.com/CameronLuyt69/AZ-TECH",
+        "demo": "https://az-tech.herokuapp.com/"
+      },
+      {
+        "title": "Contact-Keeper",
+        "image": "3WORK.png",
+        "url": "https://github.com/CameronLuyt69/Contact-Keeper",
+        "demo": "https://contact-keeper-cl.herokuapp.com/"
       },
       {
         "title": "Contact-Keeper",
@@ -146,49 +163,23 @@
         "demo": "https://contact-keeper-cl.herokuapp.com/"
       },
       {
-        "title": "Contact-Keeper",
-        "image": "3WORK.png",
-        "url": "https://github.com/CameronLuyt69/Contact-Keeper",
-        "demo": "https://contact-keeper-cl.herokuapp.com/"
+        "title": "GitHub Finder",
+        "category": "A site that fetches GitHub user information. The site displays information such as user profile picture, followers and following, number of repos and gists, a link to the users profile and more. This project was built using HTML, CSS, React and more",
+        "image": "1 WORK.png",
+        "url": "https://github.com/CameronLuyt69/GitHub-Finder",
+        "demo": "https://github-finder-cl-69.netlify.app/"
       },
       {
-        "title": "AZ-TECH",
-        "category": "A site that enables users to shop online for items tech related. This site includes features such as a user login system, inventory management, order management, shopping cart system, reviews and more. This project was built using HTML, CSS, React, MongoDB and more",
-        "image": "6 WORK.png",
-        "url": "https://github.com/CameronLuyt69/AZ-TECH",
-        "demo": "https://az-tech.herokuapp.com/"
+        "title": "IT-Logger",
+        "category": "A site that stores technicians along with tasks they're required to complete and tasks they've completed. This project was created using HTML, CSS, React and more",
+        "image": "2 WORK.png",
+        "url": "https://github.com/CameronLuyt69/Assignments/tree/master/it-logger"
       },
       {
-        "title": "Cameron Jude Luyt",
-        "category": "A site the displays my professional information. This site also includes examples of past projects aswell as a downloadable CV. This project was built with HTML, CSS, React and more",
-        "image": "5 WORK.png",
-        "url": "https://github.com/CameronLuyt69/My-Portfolio",
-        "demo": "https://cameronluyt69.github.io/My-Portfolio/"
-      },
-      {
-        "title": "The Palace Group",
-        "category": "A casino directory/portal website with information about the ins and outs of The Palace Group. This was a group project built with HTML, CSS, Javascript, jQuery and more",
-        "image": "PG.png"
-      },
-      {
-        "title": "The Palace Group",
-        "image": "PGR.png"
-      },
-      {
-        "title": "The Palace Group",
-        "image": "PGL.png"
-      },
-      {
-        "title": "The Palace Group",
-        "image": "PGG.png"
-      },
-      {
-        "title": "King James Digital",
-        "image": "kjd.png"
-      },      
-      {
-        "title": "CAMOGraphy",
-        "image": "camo.png"
+        "title": "User Profile System",
+        "category": "A site that stores user information in the form of card panels and models. Users are removable. This project was built with HTML, CSS and Bootstrap.",
+        "image": "4 WORK.png",
+        "url": "https://github.com/CameronLuyt69/Assignments/tree/master/WebDesignEndOfModuleProject"
       }
     ]
   },

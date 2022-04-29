@@ -5,7 +5,7 @@ body {
 
 header {
    position: relative;
-   height: 800px;
+   height: 100vh;
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/header.png) no-repeat top center;
@@ -164,9 +164,25 @@ ul#nav li.current a { color: #3385c6; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   vertical-align: middle;
+   /* padding-top: 120px;
+   padding-bottom: 66px; */
    overflow: hidden;
+   height: 100vh;
+}
+.about-content {
+   padding-top: 6rem;
+   vertical-align: middle;
+   margin: 0 auto;
+   width: 85%;
+   height: 85%;
+   transform: translateY(10%);
+
+   
+   /* vertical-align: middle;
+   width: 85%;
+   padding-bottom: 30px;
+   text-align: center; */
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -211,6 +227,7 @@ ul#nav li.current a { color: #3385c6; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   height: 100vh;
 }
 
 #resume a, #resume a:visited  { color: #3385c6; }
@@ -232,9 +249,11 @@ ul#nav li.current a { color: #3385c6; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work, .skill {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
+.education, .work {
+   margin: auto;
+   width: 45%;
+   /* margin-bottom: 48px;
+   padding-bottom: 24px; */
    border-bottom: 1px solid #000000;
 }
 #resume .info {
@@ -252,14 +271,48 @@ ul#nav li.current a { color: #3385c6; }
    margin-top: 6px;
 }
 
+#Skills {
+   background: #c7cdd3;
+   padding-top: 10px;
+   padding-bottom: 72px;
+   overflow: hidden;
+   height: 100vh;
+}
+#Skills h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   padding-left: 2rem;
+   padding-top: 2rem;
+}
+#Skills h1 span {
+   border-bottom: 3px solid #3385c6;
+   padding-bottom: 6px;
+}
+.skill {
+   /* margin: auto; */
+   display: inline-block;
+   width: 95%;
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #000000;
+}
+.skill-item {
+   width: 28%;
+   display: inline-block;
+   margin: 1rem 2rem;
+}
+
 .bars {
-	width: 95%;
+	width: 100%;
 	float: left;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 }
 .bars .skills {
-  	margin-top: 36px;
+   width: 100%;
+  	margin-top: 96px;
      list-style: none;
    }
    .bars li {
@@ -297,6 +350,7 @@ ul#nav li.current a { color: #3385c6; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   height: 100vh;
 }
 #portfolio h1 {
    font: 25px/35px 'opensans-semibold', sans-serif;
@@ -569,13 +623,14 @@ ul#nav li.current a { color: #3385c6; }
    background-attachment: fixed;
 
    position: relative;
-   min-height: 200px;
+   height: 100vh;
    width: 100%;
    overflow: hidden;
 }
 #testimonials .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
+   transform: translateY(35%);
+   /* padding-top: 130px;
+   padding-bottom: 66px; */
 }
 #testimonials h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -608,14 +663,16 @@ ul#nav li.current a { color: #3385c6; }
    padding: 0;
    font-size: 24px;
    line-height: 28px;
-   color: #fff
+   color: #fff;
+   margin: 0;
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 14px;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    line-height: 28px;
-   color: rgb(255, 255, 255);
+   color: rgb(209, 209, 209);
+   font-style: italic;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
@@ -706,14 +763,15 @@ ul#nav li.current a { color: #3385c6; }
 }
 
 #contact {
+   height: 86vh;
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 26px;
+   padding-bottom: 0px;
    color: #636363;
 }
-#contact .section-head { margin-bottom: 42px; }
+#contact .section-head { margin-bottom: 22px; }
 
-#contact a, #contact a:visited  { color: #3385c6; }
+#contact a, #contact a:visited  { color: #ffffff; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -722,6 +780,7 @@ ul#nav li.current a { color: #3385c6; }
    letter-spacing: 3px;
    color: #EBEEEE;
    margin-bottom: 6px;
+   padding-top: 3rem;
 }
 #contact h1 span { display: none; }
 #contact h6:before {
@@ -748,26 +807,25 @@ ul#nav li.current a { color: #3385c6; }
 
 
 /* contact form */
-#contact form { margin-bottom: 30px; }
+#contact form { margin-bottom: 0px; }
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
    color: #EBEEEE;
-	display: inline-block;
    width: 26%;
 	float: left;
 }
 #contact input,
 #contact textarea,
 #contact select {
-   padding: 18px 20px;
+   padding: 12px 26px;
 	color: #eee;
 	background: #373233;
-	margin-bottom: 42px;
+	margin-bottom: 25px;
 	border: 0;
 	outline: none;
    font-size: 15px;
-   line-height: 24px;
+   line-height: 20px;
    width: 65%;
 }
 #contact input:focus,
@@ -792,6 +850,26 @@ ul#nav li.current a { color: #3385c6; }
 	color: #0D0D0D;
 	background: #3385c6;
 }
+/* social links */
+#contact .social-links {
+   margin: 18px 0 10px 5px;
+   padding: 0;
+   font-size: 30px;
+}
+#contact .social-links li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-left: 42px;
+    color: #ffffff;
+}
+#contact .social-links li a:hover {
+   color: #ffffff;
+}
+
+
+#contact .social-links li:first-child { margin-left: 0; }
+
 #contact span.required {
 	color: #11ABB0;
 	font-size: 13px;
@@ -819,14 +897,17 @@ ul#nav li.current a { color: #3385c6; }
 }
 
 footer {
-   padding-top: 48px;
-   margin-bottom: 48px;
+   padding-top: 18px;
+   /* margin-bottom: 18px; */
    color: #303030;
    font-size: 14px;
    text-align: center;
    position: relative;
+   height: 10vh;
 }
-
+footer .row {
+   height: 10px;
+}
 footer a, footer a:visited { color: #525252; }
 footer a:hover, footer a:focus { color: #fff; }
 
@@ -839,6 +920,7 @@ footer .copyright li {
     display: inline-block;
     margin: 0;
     padding: 0;
+    padding-top: 2.5rem;
     line-height: 24px;
 }
 .ie footer .copyright li {
@@ -848,31 +930,12 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #ffffff;
 }
 footer .copyright  li:first-child:before {
     display: none;
 }
 
-/* social links */
-footer .social-links {
-   margin: 18px 0 30px 0;
-   padding: 0;
-   font-size: 30px;
-}
-footer .social-links li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    margin-left: 42px;
-    color: #3385c6;
-}
-footer .social-links li a:hover {
-   color: #3385c6;
-}
-
-
-footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {

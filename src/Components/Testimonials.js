@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {SectionsContainer, Section} from 'react-fullpage';
 
 class Testimonials extends Component {
   render() {
@@ -7,7 +8,7 @@ class Testimonials extends Component {
         testimonials
       ) {
         return (
-          <li key={testimonials.user}>
+          <li className="client-testimonial" key={testimonials.user}>
             <blockquote>
               <p>{testimonials.text}</p>
               <cite>{testimonials.user}</cite>
@@ -18,7 +19,7 @@ class Testimonials extends Component {
     }
 
     return (
-      <section id="testimonials">
+      <section id="testimonials" className="section">
         <div className="text-container">
           <div className="row">
             <div className="two columns header-col">

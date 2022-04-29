@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {SectionsContainer, Section} from 'react-fullpage';
 
 class Contact extends Component {
   constructor(props) {
@@ -17,10 +18,19 @@ class Contact extends Component {
       var zip = this.props.data.address.zip;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
+      var networks = this.props.data.social.map(function (network) {
+        return (
+          <li key={network.name}>
+            <a href={network.url} target="_black">
+              <i className={network.className}></i>
+            </a>
+          </li>
+        );
+      });
     }
 
     return (
-      <section id="contact">
+      <section id="contact" className="section">
         <div className="row section-head">
           <div className="two columns">
             <h6> </h6>
@@ -124,6 +134,8 @@ class Contact extends Component {
                 {phone}
                 <br />
                 {email}
+                <br/>
+                <ul className="social-links">{networks}</ul>
               </p>
             </div>
           </aside>
